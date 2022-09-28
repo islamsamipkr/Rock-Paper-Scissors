@@ -1,0 +1,1 @@
+print("Rock-Paper-Scissor")
